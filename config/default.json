@@ -9,7 +9,7 @@
   "authentication": {
     "entity": "user",
     "service": "users",
-    "secret": "DdrPlkj5+l9H92X+YfDGF1HZUW4=",
+    "secret": "ODpuERO30iZAxZmi79Rv47Q/zO8=",
     "authStrategies": [
       "jwt",
       "local"
@@ -27,5 +27,6 @@
       "usernameField": "email",
       "passwordField": "password"
     }
-  }
+  },
+  "nedb": "../data"
 }

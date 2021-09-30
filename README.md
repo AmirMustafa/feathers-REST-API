@@ -1,6 +1,6 @@
-# feathers-basics
+# feathers-rest-api
 
-> Create a REST API using feathers
+> Creating REST API using Feathers.js and NeDB
 
 ## About
 
@@ -14,7 +14,7 @@ Getting up and running is as easy as 1, 2, 3.
 2. Install your dependencies
 
     ```
-    cd path/to/feathers-basics
+    cd path/to/feathers-rest-api
     npm install
     ```
 
