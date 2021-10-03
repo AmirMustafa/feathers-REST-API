@@ -1,9 +1,6 @@
 # feathers-rest-api
 
-> Creating REST API using Feathers.js and NeDB
-
-## About
-
+> Creating REST API using Feathers.js and NeDB.  Feathers.js is a real-time, micro-service open source web framework for NodeJS that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
 This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
 
 ## Installation
@@ -29,7 +26,7 @@ Getting up and running is as easy as 1, 2, 3.
 3. Start your app
 
     ```
-    yarn dev
+    npm run dev ||  yarn dev
     ```
 
 ## Testing
