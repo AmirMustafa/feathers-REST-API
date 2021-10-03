@@ -11,7 +11,7 @@ npm install -g @feathersjs/cli
 
 ```
 
-##Dcreenshots:
+## Screenshots:
 
 <img src="https://user-images.githubusercontent.com/15896579/135735323-236cd56c-9b98-477c-83ef-2ce9c041f205.jpeg" alt="Feathers Application" >
 <img src="https://user-images.githubusercontent.com/15896579/135735339-a567ab43-2491-4952-b131-0338e816354c.png" alt="Feathers Application" >
